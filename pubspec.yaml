@@ -1,6 +1,6 @@
 name: flutter_local_notifications_change_time
-description: flutter_local_notifications change hour
-version: 0.0.2
+description:
+version: 0.0.3
 homepage: https://github.com/Li-Xiang-Lan/flutter_local_notifications_change_time
 
 dependencies:
